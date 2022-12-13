@@ -9,7 +9,7 @@ int[] array2 = new int[array.Length / 2 + array.Length % 2];
 for (int i = 0; i < array2.Length; i++)
 {
     array2[i] = array[i] * array[array.Length - 1 - i];
-    if (i == array.lenght - i - 1)
+    if (i == array.Length - i - 1)
     {
         array2[i] = array[i];
     }
