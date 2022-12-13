@@ -1,0 +1,15 @@
+D:\рабочий стол\study\lesson 5 C#\task 37\bin\Debug\net6.0\task 37.exe
+D:\рабочий стол\study\lesson 5 C#\task 37\bin\Debug\net6.0\task 37.deps.json
+D:\рабочий стол\study\lesson 5 C#\task 37\bin\Debug\net6.0\task 37.runtimeconfig.json
+D:\рабочий стол\study\lesson 5 C#\task 37\bin\Debug\net6.0\task 37.dll
+D:\рабочий стол\study\lesson 5 C#\task 37\bin\Debug\net6.0\task 37.pdb
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.csproj.AssemblyReference.cache
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.GeneratedMSBuildEditorConfig.editorconfig
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.AssemblyInfoInputs.cache
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.AssemblyInfo.cs
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.csproj.CoreCompileInputs.cache
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.dll
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\refint\task 37.dll
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.pdb
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\task 37.genruntimeconfig.cache
+D:\рабочий стол\study\lesson 5 C#\task 37\obj\Debug\net6.0\ref\task 37.dll
